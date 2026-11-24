@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-24",
   "categories": {
     "coaching": "Coaching & Experts",
     "creators": "Creators & Knowledge",
@@ -458,17 +458,17 @@
       "niche": "SaaSpreneurs & White-Label SaaS Owners",
       "category": "agencies",
       "categoryName": "Marketing, Tech & Agencies",
-      "palette": "Teal & Cream",
+      "palette": "Ink & Tangerine",
       "colors": {
-        "background": "#F9F8F5",
-        "primary": "#0E4444",
-        "accent": "#F2EDDC"
+        "background": "#FFFBF7",
+        "primary": "#1B1F3B",
+        "accent": "#FF6B35"
       },
       "style": "Light",
       "headlineType": "Sans",
       "headlineFont": "Lexend",
-      "colorFamily": "Teal",
-      "hue": 180,
+      "colorFamily": "Brown & orange",
+      "hue": 16,
       "edition": "library",
       "thumbnail": "thumbnails/tandem-hq.jpg",
       "html": "templates/tandem-hq.html",
